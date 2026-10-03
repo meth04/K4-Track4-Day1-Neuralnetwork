@@ -1,0 +1,7 @@
+torch>=2.0
+numpy
+scikit-learn
+matplotlib
+openpyxl
+pandas
+wandb
